@@ -372,4 +372,4 @@ Open `src/data/site.json` and edit the information describing your recent site l
 
 ## Credits
 
-Inpired by [weeby.studio](https://weeby.studio) Intro theme.
+Inspired by [weeby.studio](https://weeby.studio) Intro theme.
