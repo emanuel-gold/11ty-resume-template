@@ -44,7 +44,7 @@ To edit the content and design of your resume, follow these steps:
 
 ### 1. Author Details
 
-Open `src/data/author.json` and edit the information describing yourself. The following properties are supported (optional properties can be removed from the JSON file):
+Open `src/_data/author.json` and edit the information describing yourself. The following properties are supported (optional properties can be removed from the JSON file):
 
 <table>
     <thead>
@@ -275,7 +275,7 @@ Open `src/data/author.json` and edit the information describing yourself. The fo
 
 ### 2. Recent Project Details
 
-Open `src/data/projects.json` and edit the information describing your recent projects. The following properties are supported (optional properties can be removed from the JSON file):
+Open `src/_data/projects.json` and edit the information describing your recent projects. The following properties are supported (optional properties can be removed from the JSON file):
 
 <table>
     <thead>
@@ -316,7 +316,7 @@ Open `src/data/projects.json` and edit the information describing your recent pr
 
 ### 3. Site details
 
-Open `src/data/site.json` and edit the information describing your recent site level details, theme color, locale, etc. The following properties are supported (optional properties can be removed from the JSON file):
+Open `src/_data/site.json` and edit the information describing your recent site level details, theme color, locale, etc. The following properties are supported (optional properties can be removed from the JSON file):
 
 <table>
     <thead>
