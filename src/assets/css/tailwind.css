@@ -2,8 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+
 .link {
-  @apply text-husky-800 hover:text-husky-500 dark:text-husky-300 dark:hover:text-husky-400 underline;
+  @apply text-blue-600 hover:text-blue-400 dark:text-blue-400 dark:hover:text-blue-300 underline;
 }
 
 .highlight {
@@ -11,7 +12,27 @@
 }
 
 .with-border {
-  @apply border border-husky-400 dark:border-husky-600;
+  @apply border border-husky-300 dark:border-husky-700;
+}
+
+.text-front {
+  @apply text-husky-900 dark:text-husky-50;
+}
+
+.text-lead {
+  @apply text-husky-600 dark:text-husky-300;
+}
+
+.text-lead-text {
+  @apply text-husky-500 dark:text-husky-400;
+}
+
+.border-line {
+  @apply border-husky-200 dark:border-husky-800;
+}
+
+.bg-line {
+  @apply bg-husky-200 dark:bg-husky-800;
 }
 
 .work-entry.current .dot {
